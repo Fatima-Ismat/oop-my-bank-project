@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "@types/inquirer": "^9.0.7",
+    "inquirer": "^10.1.6",
+    "prompt": "^1.3.0"
+  },
+  "devDependencies": {
+    "@types/prompt-sync": "^4.2.3"
+  },
+  "name": "af-oop-my-bank-project",
+  "version": "1.0.0",
+  "main": "main.js",
+  "type":"module",
+  "bin":"main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
